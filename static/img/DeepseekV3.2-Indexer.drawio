@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="第 1 页" id="ZC5anOPF25IHAKdOb2pl">
-    <mxGraphModel dx="2281" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2524" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint x="240" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5xlmu9kw9wl2R_dfmtjP-19" value="Per-Group quant (&lt;span style=&quot;color: rgb(80, 161, 79); font-family: &amp;quot;IBM Plex Mono&amp;quot;, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;ue8m0&lt;/span&gt;)&lt;br&gt;&lt;div&gt;(B, S, index_head, index_head_dim)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5xlmu9kw9wl2R_dfmtjP-19" value="Per-Group quant (&lt;span style=&quot;color: rgb(80, 161, 79); font-family: &amp;quot;IBM Plex Mono&amp;quot;, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;ue8m0&lt;/span&gt;)&lt;br&gt;&lt;div&gt;(B, S, index_head, index_head_dim)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="191" y="480" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xlmu9kw9wl2R_dfmtjP-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5xlmu9kw9wl2R_dfmtjP-17" target="5xlmu9kw9wl2R_dfmtjP-19">
@@ -109,7 +109,7 @@
             <mxPoint x="561" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5xlmu9kw9wl2R_dfmtjP-35" value="Per-Group quant (&lt;span style=&quot;color: rgb(80, 161, 79); font-family: &amp;quot;IBM Plex Mono&amp;quot;, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;ue8m0&lt;/span&gt;)&lt;br&gt;&lt;div&gt;(B, S, index_head_dim)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5xlmu9kw9wl2R_dfmtjP-35" value="Per-Group quant (&lt;span style=&quot;color: rgb(80, 161, 79); font-family: &amp;quot;IBM Plex Mono&amp;quot;, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;ue8m0&lt;/span&gt;)&lt;br&gt;&lt;div&gt;(B, S, index_head_dim)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="485" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xlmu9kw9wl2R_dfmtjP-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5xlmu9kw9wl2R_dfmtjP-19" target="5xlmu9kw9wl2R_dfmtjP-21">
