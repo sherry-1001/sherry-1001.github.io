@@ -283,16 +283,20 @@
             <mxPoint x="585" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5xlmu9kw9wl2R_dfmtjP-79" value="index scores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5xlmu9kw9wl2R_dfmtjP-78">
-          <mxGeometry x="0.1371" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5xlmu9kw9wl2R_dfmtjP-80" value="top-k&lt;div&gt;（B, S, 2048）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1170" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xlmu9kw9wl2R_dfmtjP-82" value="fp8_index" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xlmu9kw9wl2R_dfmtjP-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5xlmu9kw9wl2R_dfmtjP-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1130" as="sourcePoint" />
+            <mxPoint x="595" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5xlmu9kw9wl2R_dfmtjP-84" value="scatter top-k for input_mask&lt;div&gt;decode: (B, 1, S)&lt;/div&gt;&lt;div&gt;prefill: (B, S, S)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1290" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
