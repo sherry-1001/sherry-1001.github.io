@@ -1,96 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="第 1 页" id="P1zgVmx2k-VH0yzBieHZ">
-    <mxGraphModel dx="2393" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3351" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-57" y="580" width="630" height="390" as="geometry" />
+          <mxGeometry x="-1361" y="505" width="630" height="390" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="SX0KhMAPh3eLkheETd_z-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="204" y="150" as="sourcePoint" />
+            <mxPoint x="-1100" y="75" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="204" y="160" />
-              <mxPoint x="-9" y="160" />
+              <mxPoint x="-1100" y="85" />
+              <mxPoint x="-1313" y="85" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-2" target="SX0KhMAPh3eLkheETd_z-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="160" />
-              <mxPoint x="460" y="160" />
+              <mxPoint x="-1084" y="85" />
+              <mxPoint x="-844" y="85" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-2" value="input&lt;div&gt;(B, S, H)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="170" y="120" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1134" y="45" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$c_{t}^{Q}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S,q_lora_rank&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-78.57" y="180" width="140" height="50" as="geometry" />
+          <mxGeometry x="-1382.57" y="105" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$c_{t}^{KV}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;&lt;font&gt;（B, S,&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; letter-spacing: 0.08px;&quot;&gt; kv_lora_rank+qk_rope_head_dim&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: oklch(0.9902 0.004 106.47); color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px;&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="340" y="180" width="220" height="50" as="geometry" />
+          <mxGeometry x="-964" y="105" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rms&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-78.57" y="260" width="140" height="50" as="geometry" />
+          <mxGeometry x="-1382.57" y="185" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$q_{t,i}^{R}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*qk_rope_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-206" y="340" width="210" height="50" as="geometry" />
+          <mxGeometry x="-1510" y="265" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$qk_{t,i}^{C}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*kv_lora_rank&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="34" y="340" width="190" height="50" as="geometry" />
+          <mxGeometry x="-1270" y="265" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rope&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-171" y="413" width="140" height="50" as="geometry" />
+          <mxGeometry x="-1475" y="338" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$concat[q_{t,i}^{R}, qk_{t,i}^{C}]$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*(qk_rope_head_dim+kv_lora_rank））&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-126" y="490" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1430" y="415" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$k_{t}^{R}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, qk_rope_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="270" y="260" width="210" height="50" as="geometry" />
+          <mxGeometry x="-1034" y="185" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$k_{t}^{R}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, qk_rope_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="540" y="260" width="210" height="50" as="geometry" />
+          <mxGeometry x="-764" y="185" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rope&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="305" y="340" width="140" height="50" as="geometry" />
+          <mxGeometry x="-999" y="265" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rms&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="575" y="340" width="140" height="50" as="geometry" />
+          <mxGeometry x="-729" y="265" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-21" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$concat[k_{t,i}^{R}, kv_{t,i}^{C}]$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, qk_rope_head_dim+kv_lora_rank））&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="370" y="490" width="290" height="50" as="geometry" />
+          <mxGeometry x="-934" y="415" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-22" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;matmul&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="70" y="590" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1234" y="515" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;divide&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="70" y="660" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1234" y="585" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;mask&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="70" y="730" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1234" y="655" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;softmax&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="70" y="800" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1234" y="725" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;matmul&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;(B,S, head_num*kv_lora_rank)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="224" y="890" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1080" y="815" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px;&quot;&gt;&amp;nbsp; &amp;nbsp;output&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px;&quot;&gt;（B, S, H&lt;/font&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="217" y="1070" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1087" y="995" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-3" target="SX0KhMAPh3eLkheETd_z-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="550" as="sourcePoint" />
-            <mxPoint x="130" y="500" as="targetPoint" />
+            <mxPoint x="-1224" y="475" as="sourcePoint" />
+            <mxPoint x="-1174" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-9" target="SX0KhMAPh3eLkheETd_z-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="550" as="sourcePoint" />
-            <mxPoint x="130" y="500" as="targetPoint" />
+            <mxPoint x="-1224" y="475" as="sourcePoint" />
+            <mxPoint x="-1174" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-8" value="split" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SX0KhMAPh3eLkheETd_z-30">
@@ -100,126 +100,353 @@
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-31" value="split" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-9" target="SX0KhMAPh3eLkheETd_z-13" edge="1">
           <mxGeometry x="0.0018" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="122" y="320" as="sourcePoint" />
-            <mxPoint x="30" y="350" as="targetPoint" />
+            <mxPoint x="-1182" y="245" as="sourcePoint" />
+            <mxPoint x="-1274" y="275" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-12" target="SX0KhMAPh3eLkheETd_z-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="550" as="sourcePoint" />
-            <mxPoint x="130" y="500" as="targetPoint" />
+            <mxPoint x="-1224" y="475" as="sourcePoint" />
+            <mxPoint x="-1174" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-14" target="SX0KhMAPh3eLkheETd_z-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="550" as="sourcePoint" />
-            <mxPoint x="130" y="500" as="targetPoint" />
+            <mxPoint x="-1224" y="475" as="sourcePoint" />
+            <mxPoint x="-1174" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="18.33" y="390" as="sourcePoint" />
-            <mxPoint x="19" y="490" as="targetPoint" />
+            <mxPoint x="-1285.67" y="315" as="sourcePoint" />
+            <mxPoint x="-1285" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-16" target="SX0KhMAPh3eLkheETd_z-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="550" as="sourcePoint" />
-            <mxPoint x="130" y="500" as="targetPoint" />
+            <mxPoint x="-1224" y="475" as="sourcePoint" />
+            <mxPoint x="-1174" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="550" as="sourcePoint" />
-            <mxPoint x="210" y="590" as="targetPoint" />
+            <mxPoint x="-1224" y="475" as="sourcePoint" />
+            <mxPoint x="-1094" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-22" target="SX0KhMAPh3eLkheETd_z-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="630" as="sourcePoint" />
-            <mxPoint x="200" y="580" as="targetPoint" />
+            <mxPoint x="-1154" y="555" as="sourcePoint" />
+            <mxPoint x="-1104" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-23" target="SX0KhMAPh3eLkheETd_z-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="630" as="sourcePoint" />
-            <mxPoint x="200" y="580" as="targetPoint" />
+            <mxPoint x="-1154" y="555" as="sourcePoint" />
+            <mxPoint x="-1104" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="630" as="sourcePoint" />
-            <mxPoint x="215" y="800" as="targetPoint" />
+            <mxPoint x="-1154" y="555" as="sourcePoint" />
+            <mxPoint x="-1089" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-25" target="SX0KhMAPh3eLkheETd_z-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="630" as="sourcePoint" />
-            <mxPoint x="200" y="580" as="targetPoint" />
+            <mxPoint x="-1154" y="555" as="sourcePoint" />
+            <mxPoint x="-1104" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SX0KhMAPh3eLkheETd_z-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SX0KhMAPh3eLkheETd_z-21" target="SX0KhMAPh3eLkheETd_z-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="630" as="sourcePoint" />
-            <mxPoint x="340" y="890" as="targetPoint" />
+            <mxPoint x="-1154" y="555" as="sourcePoint" />
+            <mxPoint x="-964" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-2" value="MQA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="590" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1354" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SX0KhMAPh3eLkheETd_z-26" target="UZ1AzTVV4hem8Bs3GbvP-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="900" as="sourcePoint" />
-            <mxPoint x="362" y="990" as="targetPoint" />
+            <mxPoint x="-1034" y="825" as="sourcePoint" />
+            <mxPoint x="-942" y="915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$v_{t,i}^{C}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*v_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="217" y="996" width="290" height="50" as="geometry" />
+          <mxGeometry x="-1087" y="921" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-4" target="SX0KhMAPh3eLkheETd_z-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="930" as="sourcePoint" />
-            <mxPoint x="320" y="880" as="targetPoint" />
+            <mxPoint x="-1034" y="855" as="sourcePoint" />
+            <mxPoint x="-984" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SX0KhMAPh3eLkheETd_z-17" target="SX0KhMAPh3eLkheETd_z-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="340" as="sourcePoint" />
-            <mxPoint x="240" y="290" as="targetPoint" />
+            <mxPoint x="-1114" y="265" as="sourcePoint" />
+            <mxPoint x="-1064" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SX0KhMAPh3eLkheETd_z-18" target="SX0KhMAPh3eLkheETd_z-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="340" as="sourcePoint" />
-            <mxPoint x="240" y="290" as="targetPoint" />
+            <mxPoint x="-1114" y="265" as="sourcePoint" />
+            <mxPoint x="-1064" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SX0KhMAPh3eLkheETd_z-19" target="SX0KhMAPh3eLkheETd_z-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="340" as="sourcePoint" />
-            <mxPoint x="240" y="290" as="targetPoint" />
+            <mxPoint x="-1114" y="265" as="sourcePoint" />
+            <mxPoint x="-1064" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SX0KhMAPh3eLkheETd_z-20" target="SX0KhMAPh3eLkheETd_z-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="340" as="sourcePoint" />
-            <mxPoint x="240" y="290" as="targetPoint" />
+            <mxPoint x="-1114" y="265" as="sourcePoint" />
+            <mxPoint x="-1064" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-13" value="down linear" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="100" height="30" as="geometry" />
+          <mxGeometry x="-744" y="115" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SX0KhMAPh3eLkheETd_z-6" target="SX0KhMAPh3eLkheETd_z-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="460" as="sourcePoint" />
-            <mxPoint x="380" y="410" as="targetPoint" />
+            <mxPoint x="-974" y="385" as="sourcePoint" />
+            <mxPoint x="-924" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ1AzTVV4hem8Bs3GbvP-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SX0KhMAPh3eLkheETd_z-6" target="SX0KhMAPh3eLkheETd_z-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="460" as="sourcePoint" />
-            <mxPoint x="380" y="410" as="targetPoint" />
+            <mxPoint x="-974" y="385" as="sourcePoint" />
+            <mxPoint x="-924" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-201" y="490" width="630" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UZ1AzTVV4hem8Bs3GbvP-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="60" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="60" y="70" />
+              <mxPoint x="-153" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-21" target="UZ1AzTVV4hem8Bs3GbvP-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="76" y="70" />
+              <mxPoint x="316" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-21" value="input&lt;div&gt;(B, S, H)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="26" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-22" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$c_{t}^{Q}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S,q_lora_rank&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-222.56999999999994" y="90" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$c_{t}^{KV}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;&lt;font&gt;（B, S,&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; letter-spacing: 0.08px;&quot;&gt; kv_lora_rank+qk_rope_head_dim&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: oklch(0.9902 0.004 106.47); color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px;&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="196" y="90" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rms&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-222.56999999999994" y="170" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$q_{t,i}^{R}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*qk_rope_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="250" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$qk_{t,i}^{C}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*kv_lora_rank&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="250" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rope&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="323" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$concat[q_{t,i}^{R}, qk_{t,i}^{C}]$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*(qk_rope_head_dim+kv_lora_rank））&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="400" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-29" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$k_{t}^{R}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, qk_rope_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="126" y="170" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-30" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$k_{t}^{R}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, qk_rope_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="396" y="170" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rope&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="161" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;rms&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="431" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-33" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$concat[k_{t,i}^{R}, kv_{t,i}^{C}]$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, qk_rope_head_dim+kv_lora_rank））&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="226" y="400" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-34" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;matmul&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="500" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-35" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;divide&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="570" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-36" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;mask&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="640" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-37" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;softmax&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="710" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;matmul&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;#003913&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;(B,S, head_num*kv_lora_rank)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px;&quot;&gt;&amp;nbsp; &amp;nbsp;output&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px;&quot;&gt;（B, S, H&lt;/font&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="73" y="980" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-22" target="UZ1AzTVV4hem8Bs3GbvP-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="460" as="sourcePoint" />
+            <mxPoint x="-14" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-24" target="UZ1AzTVV4hem8Bs3GbvP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="460" as="sourcePoint" />
+            <mxPoint x="-14" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-42" value="split" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZ1AzTVV4hem8Bs3GbvP-41">
+          <mxGeometry x="-0.5394" y="-2" relative="1" as="geometry">
+            <mxPoint x="-20" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-43" value="split" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-24" target="UZ1AzTVV4hem8Bs3GbvP-26">
+          <mxGeometry x="0.0018" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-22" y="230" as="sourcePoint" />
+            <mxPoint x="-114" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-25" target="UZ1AzTVV4hem8Bs3GbvP-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="460" as="sourcePoint" />
+            <mxPoint x="-14" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-27" target="UZ1AzTVV4hem8Bs3GbvP-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="460" as="sourcePoint" />
+            <mxPoint x="-14" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-125.66999999999996" y="300" as="sourcePoint" />
+            <mxPoint x="-125" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-28" target="UZ1AzTVV4hem8Bs3GbvP-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="460" as="sourcePoint" />
+            <mxPoint x="-14" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="460" as="sourcePoint" />
+            <mxPoint x="66" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-34" target="UZ1AzTVV4hem8Bs3GbvP-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="540" as="sourcePoint" />
+            <mxPoint x="56" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-35" target="UZ1AzTVV4hem8Bs3GbvP-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="540" as="sourcePoint" />
+            <mxPoint x="56" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="540" as="sourcePoint" />
+            <mxPoint x="71" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-37" target="UZ1AzTVV4hem8Bs3GbvP-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="540" as="sourcePoint" />
+            <mxPoint x="56" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-33" target="UZ1AzTVV4hem8Bs3GbvP-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="540" as="sourcePoint" />
+            <mxPoint x="196" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-54" value="MQA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-38" target="UZ1AzTVV4hem8Bs3GbvP-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="126" y="810" as="sourcePoint" />
+            <mxPoint x="218" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-56" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;$$v_{t,i}^{C}$$&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: oklch(0.3039 0.04 213.68); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; letter-spacing: 0.08px; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&lt;font&gt;（B, S, head_num*v_head_dim&lt;/font&gt;）&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="73" y="906" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-56" target="UZ1AzTVV4hem8Bs3GbvP-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="126" y="840" as="sourcePoint" />
+            <mxPoint x="176" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-29" target="UZ1AzTVV4hem8Bs3GbvP-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="250" as="sourcePoint" />
+            <mxPoint x="96" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-30" target="UZ1AzTVV4hem8Bs3GbvP-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="250" as="sourcePoint" />
+            <mxPoint x="96" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-31" target="UZ1AzTVV4hem8Bs3GbvP-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="250" as="sourcePoint" />
+            <mxPoint x="96" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-32" target="UZ1AzTVV4hem8Bs3GbvP-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="250" as="sourcePoint" />
+            <mxPoint x="96" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-23" target="UZ1AzTVV4hem8Bs3GbvP-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="370" as="sourcePoint" />
+            <mxPoint x="236" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-23" target="UZ1AzTVV4hem8Bs3GbvP-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="370" as="sourcePoint" />
+            <mxPoint x="236" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-65" value="Lighting Index&lt;div&gt;(B, S, 2048)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZ1AzTVV4hem8Bs3GbvP-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=2;" edge="1" parent="1" source="UZ1AzTVV4hem8Bs3GbvP-21" target="UZ1AzTVV4hem8Bs3GbvP-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="sourcePoint" />
+            <mxPoint x="260" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="45" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
